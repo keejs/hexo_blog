@@ -1,2 +1,2 @@
-# hexo_blog
-hexo_blog
+# Hexo_blog
+Blog personnel
